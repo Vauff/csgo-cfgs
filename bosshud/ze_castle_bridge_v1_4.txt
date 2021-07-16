@@ -1,0 +1,13 @@
+"math_counter"
+{
+    "config"
+    {
+        "BossBeatenShowTopDamage"   "1"
+    }
+    "0"
+    {
+        "Type"                      "breakable"
+        "BreakableName"             "Frenchy_hbox"
+        "CustomText"                "Boss"
+    }
+}
